@@ -1,0 +1,9 @@
+.idea/
+
+read_data.py
+data/formatted/chunk1.csv
+data/test.csv
+data/raw/ad_log.tsv.0063_part_00.gz
+
+
+*pyc
